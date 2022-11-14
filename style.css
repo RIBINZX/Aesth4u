@@ -1,0 +1,52 @@
+.head img{
+width: 100px;
+border-radius: 50%;
+align-items: center;
+}
+.cards img{
+    width: 30px;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(253, 253, 253);
+    box-shadow: 0 5px 17px -7px #000000bf;
+    padding: 15px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+.cards .opt{
+    position: relative;
+    
+}
+.x .img{
+    position: relative;
+    left: -12px;
+}
+.y .img{
+    position: relative;
+    left: -15px;
+}
+.z .img{
+    position: relative;
+    left: -24px;
+}
+.pad{
+    padding-top: 30px;
+}
+.a .opt{
+    font-weight: bold;
+    
+}
+.a{padding: 5px 20px;}
+.disc p{
+    font-weight:500;
+}
